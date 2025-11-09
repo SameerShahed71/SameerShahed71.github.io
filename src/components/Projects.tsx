@@ -3,6 +3,7 @@ import { ProjectCard } from './ProjectCard';
 import codeFillImage from 'figma:asset/c611ddae7b39d1ff3763e7b01734955bc081f732.png';
 import stockFlowImage from 'figma:asset/cc22dec3dbccc9491042eb62b90100157878fcf6.png';
 import drMarioImage from 'figma:asset/0a5c4d891e19364f502e3151ea41c10cec396414.png';
+import NxtMovieImage from 'NxtMovie.png'
 
 const projects = [
   {
@@ -16,7 +17,7 @@ const projects = [
   {
     title: 'NxtMovie',
     description: 'Recommender system using graph similarity and scikit-learn\'s cosine similarity to generate tailored movie suggestions. Deployed MongoDB database to manage 10K+ movies and user profiles.',
-    image: 'https://images.unsplash.com/photo-1485095329183-d0797cdc5676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3ZpZSUyMGNpbmVtYXxlbnwxfHx8fDE3NjI1NDI3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: NxtMovieImage,
     tags: ['Python', 'Scikit-learn', 'Pandas', 'MongoDB'],
     githubUrl: 'https://github.com/SameerShahed71/NxtMovie',
     liveUrl: 'https://www.youtube.com/watch?v=BfWAH9884qQ',
