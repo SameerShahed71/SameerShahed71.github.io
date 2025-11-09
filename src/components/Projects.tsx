@@ -3,7 +3,7 @@ import { ProjectCard } from './ProjectCard';
 import codeFillImage from 'figma:asset/c611ddae7b39d1ff3763e7b01734955bc081f732.png';
 import stockFlowImage from 'figma:asset/cc22dec3dbccc9491042eb62b90100157878fcf6.png';
 import drMarioImage from 'figma:asset/0a5c4d891e19364f502e3151ea41c10cec396414.png';
-import NxtMovieImage from 'NxtMovie.png'
+import NxtMovieImage from 'asset/NxtMovie.png'
 
 const projects = [
   {
