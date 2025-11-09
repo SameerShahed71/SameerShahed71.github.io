@@ -61,7 +61,7 @@
       "figma:asset/c611ddae7b39d1ff3763e7b01734955bc081f732.png": ["./src/assets/c611ddae7b39d1ff3763e7b01734955bc081f732.png"],
       "figma:asset/6d35fa2b8e175585c57f9436e032934ebb48473f.png": ["./src/assets/6d35fa2b8e175585c57f9436e032934ebb48473f.png"],
       "figma:asset/4c8b31c4ddbfbb39f2e8eb238136f9193ffdbb53.png": ["./src/assets/4c8b31c4ddbfbb39f2e8eb238136f9193ffdbb53.png"],
-      "figma:asset/0a5c4d891e19364f502e3151ea41c10cec396414.png": ["./src/assets/0a5c4d891e19364f502e3151ea41c10cec396414.png"]
+      "figma:asset/0a5c4d891e19364f502e3151ea41c10cec396414.png": ["./src/assets/0a5c4d891e19364f502e3151ea41c10cec396414.png"],
     }
   },
   "include": ["src"],
