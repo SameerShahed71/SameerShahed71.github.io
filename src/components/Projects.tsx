@@ -3,7 +3,9 @@ import { ProjectCard } from './ProjectCard';
 import codeFillImage from 'figma:asset/c611ddae7b39d1ff3763e7b01734955bc081f732.png';
 import stockFlowImage from 'figma:asset/cc22dec3dbccc9491042eb62b90100157878fcf6.png';
 import drMarioImage from 'figma:asset/0a5c4d891e19364f502e3151ea41c10cec396414.png';
+import flashmindImage from '../assets/FlashMind.png';
 import NxtMovieImage from '../assets/NxtMovie.png';
+import { Description } from '@radix-ui/react-dialog';
 
 const projects = [
   {
@@ -29,6 +31,13 @@ const projects = [
     tags: ['Java', 'Firebase', 'Spring Boot', 'REST APIs'],
     githubUrl: 'https://github.com/SameerShahed71/StockFlow',
     liveUrl: "https://www.youtube.com/watch?v=ANHe6UrRnsY"
+  },
+  {
+    title: 'FlashMind',
+    description: 'AI-powered flashcard generator that transforms lecture PDFs or pasted notes into study-ready Q&A cards. Built a Vite + React frontend with drag-and-drop uploads and responsive card grid, plus an Express backend that extracts PDF text and calls Gemini for generation.',
+    image: flashmindImage,
+    tags: ['React', 'Tailwind CSS', 'Node.js', 'Express', 'Gemini API'],
+    githubUrl: 'https://github.com/SameerShahed71/FlashMind',
   },
   {
     title: 'Dr Mario Assembly Game',
